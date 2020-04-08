@@ -10,6 +10,7 @@
 ## Arrays
 - [Maximum Subarray](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxSubArray.swift)
 - [Move Zeroes](https://github.com/msystang/DSA-Practice/blob/master/Arrays/moveZeroes.swift)
+- [Remove Duplicates](https://github.com/msystang/DSA-Practice/blob/master/Arrays/removeDups.swift)
 
 
 ## Bitwise Operations
