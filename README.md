@@ -13,5 +13,9 @@
 - [Remove Duplicates](https://github.com/msystang/DSA-Practice/blob/master/Arrays/removeDups.swift)
 
 
+## Linked Lists
+- [Middle of the Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/middleNode.swift)
+
+
 ## Bitwise Operations
 - [Hamming Distance](https://github.com/msystang/DSA-Practice/blob/master/Bitwise-Operations/hammingDistance.swift)
