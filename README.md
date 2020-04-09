@@ -15,6 +15,7 @@
 
 ## Linked Lists
 - [Middle of the Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/middleNode.swift)
+- [Linked Likst Cycle](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/hasCycle.swift)
 
 
 ## Bitwise Operations
