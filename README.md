@@ -1,7 +1,7 @@
 # Completed DSA Problems
 
 
-## Misc Math
+## Integers
 - [Single Number](https://github.com/msystang/DSA-Practice/blob/master/Misc-Math/singleNumber.swift)
 - [Win Nim](https://github.com/msystang/DSA-Practice/blob/master/Misc-Math/canWinNim.swift)
 - [Happy Number](https://github.com/msystang/DSA-Practice/blob/master/Misc-Math/isNumberHappy.swift)
