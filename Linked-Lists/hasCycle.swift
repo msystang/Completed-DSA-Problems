@@ -43,7 +43,7 @@ func hasCycle(_ head: ListNode?) -> Bool {
     var slow = head
     var fast = head
     
-    while fast?.next != nil && fast?.next?.next != nil {
+    while fast != nil && fast?.next != nil {
         slow = slow?.next
         fast = fast?.next?.next
         
