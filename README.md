@@ -15,7 +15,8 @@
 
 ## Linked Lists
 - [Middle of the Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/middleNode.swift)
-- [Linked List Cycle I](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/hasCycle.swift)
+- [Linked List has Cycle](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/hasCycle.swift)
+- [Detect Cycle in Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/detectCycle.swift)
 
 
 ## Bitwise Operations
