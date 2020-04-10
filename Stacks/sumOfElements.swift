@@ -1,4 +1,5 @@
-Sum of Elements in Stack
+/*
+ Sum of Elements in Stack
  
  Write a function that takes a Stack of Ints as input, and returns the sum of each element.
  
