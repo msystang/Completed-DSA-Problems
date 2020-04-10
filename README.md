@@ -24,6 +24,7 @@
 - [Detect Cycle in Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/detectCycle.swift)
 - [Intersection of Two Linked Lists](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/getIntersectionNode.swift)
 - [Partition List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/partition.swift)
+- [Print Each Node](https://github.com/msystang/Completed-DSA-Problems/blob/master/Linked-Lists/printEachNode.swift)
 
 
 ## Bitwise Operations
