@@ -7,6 +7,10 @@
 - [Happy Number](https://github.com/msystang/DSA-Practice/blob/master/Integers/isNumberHappy.swift)
 
 
+## Strings
+-[Group Anagrams](https://github.com/msystang/DSA-Practice/blob/master/Strings/groupAnagrams.swift)
+
+
 ## Arrays
 - [Maximum Subarray](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxSubArray.swift)
 - [Move Zeroes](https://github.com/msystang/DSA-Practice/blob/master/Arrays/moveZeroes.swift)
