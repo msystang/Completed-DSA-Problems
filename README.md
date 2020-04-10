@@ -19,6 +19,14 @@ Problems completed in Swift 5
 - [Elements Appearing N or More Times](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/elementsAppearingNOrMoreTimes)
 
 
+## Stacks
+- [Sum of Elements](https://github.com/msystang/Completed-DSA-Problems/blob/master/Stacks/sumOfElements.swift)
+
+
+## Queues
+- [Range of Integers](https://github.com/msystang/Completed-DSA-Problems/blob/master/Queues/rangeForInts.swift)
+
+
 ## Linked Lists
 - [Middle of the Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/middleNode.swift)
 - [Linked List Cycle](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/hasCycle.swift)
@@ -26,10 +34,6 @@ Problems completed in Swift 5
 - [Intersection of Two Linked Lists](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/getIntersectionNode.swift)
 - [Partition List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/partition.swift)
 - [Print Each Node](https://github.com/msystang/Completed-DSA-Problems/blob/master/Linked-Lists/printEachNode.swift)
-
-
-## Stacks
-- [Sum of Elements](https://github.com/msystang/Completed-DSA-Problems/blob/master/Stacks/sumOfElements.swift)
 
 
 ## Bitwise Operations
