@@ -20,7 +20,7 @@
 
 ## Linked Lists
 - [Middle of the Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/middleNode.swift)
-- [Linked List has Cycle](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/hasCycle.swift)
+- [Linked List Cycle](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/hasCycle.swift)
 - [Detect Cycle in Linked List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/detectCycle.swift)
 - [Intersection of Two Linked Lists](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/getIntersectionNode.swift)
 - [Partition List](https://github.com/msystang/DSA-Practice/blob/master/Linked-Lists/partition.swift)
