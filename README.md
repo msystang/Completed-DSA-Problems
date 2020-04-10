@@ -11,6 +11,7 @@
 - [Maximum Subarray](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxSubArray.swift)
 - [Move Zeroes](https://github.com/msystang/DSA-Practice/blob/master/Arrays/moveZeroes.swift)
 - [Remove Duplicates](https://github.com/msystang/DSA-Practice/blob/master/Arrays/removeDups.swift)
+- [Best Time to Buy and Sell Stock II](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxProfit.swift)
 
 
 ## Linked Lists
