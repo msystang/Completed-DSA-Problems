@@ -28,5 +28,9 @@ Problems completed in Swift 5
 - [Print Each Node](https://github.com/msystang/Completed-DSA-Problems/blob/master/Linked-Lists/printEachNode.swift)
 
 
+## Stacks
+- [Sum of Elements](https://github.com/msystang/Completed-DSA-Problems/blob/master/Stacks/sumOfElements.swift)
+
+
 ## Bitwise Operations
 - [Hamming Distance](https://github.com/msystang/DSA-Practice/blob/master/Bitwise-Operations/hammingDistance.swift)
