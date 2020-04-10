@@ -8,7 +8,7 @@
 
 
 ## Strings
--[Group Anagrams](https://github.com/msystang/DSA-Practice/blob/master/Strings/groupAnagrams.swift)
+- [Group Anagrams](https://github.com/msystang/DSA-Practice/blob/master/Strings/groupAnagrams.swift)
 
 
 ## Arrays
