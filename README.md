@@ -38,3 +38,7 @@ Problems completed in Swift 5
 
 ## Bitwise Operations
 - [Hamming Distance](https://github.com/msystang/DSA-Practice/blob/master/Bitwise-Operations/hammingDistance.swift)
+
+
+## Misc Math
+- [Nth Row of Pascal's Triangle](https://github.com/msystang/Completed-DSA-Problems/blob/master/Misc-Math/pascalsTriangleAtRowN.swift)
