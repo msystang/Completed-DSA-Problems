@@ -57,37 +57,56 @@ extension Array {
     }
 }
 
-
-func rangeForInts(in queue: Queue<Int>) -> Int {
+// Using recursion
+func rangeForInts(in queue: Queue<Int>, min: Int = Int.max, max: Int = Int.min) -> Int {
     var queue = queue
-    var min = 0
-    var max = 0
+    var max = max
+    var min = min
 
-    guard !queue.isEmpty else { return 0 }
-    guard queue.count != 1 else { return queue.front! }
+    guard !queue.isEmpty else { return max - min }
 
-    let firstInt = queue.dequeue()!
-    let secondInt = queue.dequeue()!
+    let currentInt = queue.dequeue()!
 
-    if firstInt < secondInt {
-        min = firstInt
-        max = secondInt
-    } else {
-        min = secondInt
-        max = firstInt
+    if currentInt > max {
+        max = currentInt
+    } else if currentInt < min {
+        min = currentInt
     }
 
-    while !queue.isEmpty {
-        let currentInt = queue.dequeue()!
-
-        if currentInt < min {
-            min = currentInt
-        } else if currentInt > max {
-            max = currentInt
-        }
-    }
-    return max - min
+    return rangeForInts(in: queue, min: min, max: max)
 }
+
+// Brute force using while loop
+// func rangeForInts(in queue: Queue<Int>) -> Int {
+//     var queue = queue
+//     var min = 0
+//     var max = 0
+
+//     guard !queue.isEmpty else { return 0 }
+//     guard queue.count != 1 else { return queue.front! }
+
+//     let firstInt = queue.dequeue()!
+//     let secondInt = queue.dequeue()!
+
+//     if firstInt < secondInt {
+//         min = firstInt
+//         max = secondInt
+//     } else {
+//         min = secondInt
+//         max = firstInt
+//     }
+
+//     while !queue.isEmpty {
+//         let currentInt = queue.dequeue()!
+
+//         if currentInt < min {
+//             min = currentInt
+//         } else if currentInt > max {
+//             max = currentInt
+//         }
+//     }
+//     return max - min
+// }
 
 var myQueue = Queue<Int>()
 
