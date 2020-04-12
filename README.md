@@ -18,6 +18,7 @@ Problems completed in Swift 5
 - [Return Duplicates](https://github.com/msystang/DSA-Practice/blob/master/Arrays/returnDups.swift)
 - [Best Time to Buy and Sell Stock II](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxProfit.swift)
 - [Elements Appearing N or More Times](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/elementsAppearingNOrMoreTimes)
+- [Rotate Matrix](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/rotMatrix.swift)
 
 
 ## Stacks
