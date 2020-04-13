@@ -46,19 +46,19 @@ myQueue.enqueue(30)
 myQueue.enqueue(12)
 
 // Using while-loop
-func sumOfElements(in q: Queue<Int>) -> Int {
-    var q = q
-    var sum = 0
+// func sumOfElements(in q: Queue<Int>) -> Int {
+//     var q = q
+//     var sum = 0
     
-    guard !q.isEmpty else { return sum }
+//     guard !q.isEmpty else { return sum }
     
-    while !q.isEmpty {
-        if let current = q.dequeue() {
-            sum += current
-        }
-    }
-    return sum
-}
+//     while !q.isEmpty {
+//         if let current = q.dequeue() {
+//             sum += current
+//         }
+//     }
+//     return sum
+// }
 
 // Using recursion
 func sumOfElements(in q: Queue<Int>) -> Int {
