@@ -29,6 +29,8 @@ Problems completed in Swift 5
 
 ## Queues
 - [Range of Integers](https://github.com/msystang/Completed-DSA-Problems/blob/master/Queues/rangeForInts.swift)
+- [Sum of Elements](https://github.com/msystang/Completed-DSA-Problems/blob/master/Queues/sumOfElementsInQueue.swift)
+- [Smallet Element](https://github.com/msystang/Completed-DSA-Problems/blob/master/Queues/smallestElementInQueue.swift)
 
 
 ## Linked Lists
