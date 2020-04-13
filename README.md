@@ -22,6 +22,7 @@ Problems completed in Swift 5
 
 
 ## Stacks
+- [Largest Element](https://github.com/msystang/Completed-DSA-Problems/edit/master/Stacks/largestElement.swift)
 - [Sum of Elements](https://github.com/msystang/Completed-DSA-Problems/blob/master/Stacks/sumOfElements.swift)
 - [Reduce Directions](https://github.com/msystang/Completed-DSA-Problems/blob/master/Stacks/reduceDirections.swift)
 
