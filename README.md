@@ -46,3 +46,4 @@ Problems completed in Swift 5
 
 ## Misc Math
 - [Nth Row of Pascal's Triangle](https://github.com/msystang/Completed-DSA-Problems/blob/master/Misc-Math/pascalsTriangleAtRowN.swift)
+- [Fibonacci Sequence](https://github.com/msystang/Completed-DSA-Problems/blob/master/Misc-Math/fibonacci.swift)
