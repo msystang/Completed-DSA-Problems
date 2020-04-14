@@ -43,6 +43,13 @@ Problems completed in Swift 5
 - [Remove Duplicates](https://github.com/msystang/Completed-DSA-Problems/blob/master/Linked-Lists/removeDups.swift)
 
 
+## Trees
+- [Increasing Order Search Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/increasingBST.swift)
+- [Invert Binary Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/invertTree.swift)
+- [Minimum Depth of Binary Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/minDepth.swift)
+- [Distribute Coins in Binary Tree]()
+
+
 ## Bitwise Operations
 - [Hamming Distance](https://github.com/msystang/DSA-Practice/blob/master/Bitwise-Operations/hammingDistance.swift)
 
