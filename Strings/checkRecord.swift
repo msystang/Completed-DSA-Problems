@@ -36,3 +36,13 @@ func checkRecord(_ s: String) -> Bool {
     }
     return true
 }
+
+// Using higher-order functions
+// func checkRecord(_ s: String) -> Bool {
+//     var test = s
+    
+//     test.removeAll { $0 == "A" }
+    
+//     return (s.count == test.count || test.count == s.count - 1) && s.components(separatedBy: "LLL").count == 1
+    
+// }
