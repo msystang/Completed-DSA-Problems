@@ -51,7 +51,7 @@ Problems completed in Swift 5
 - [Increasing Order Search Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/increasingBST.swift)
 - [Invert Binary Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/invertTree.swift)
 - [Minimum Depth of Binary Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/minDepth.swift)
-- [Distribute Coins in Binary Tree]()
+- [Distribute Coins in Binary Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/distributeCoins.swift)
 
 
 ## Bitwise Operations
