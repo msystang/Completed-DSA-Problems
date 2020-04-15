@@ -10,6 +10,7 @@ Problems completed in Swift 5
 ## Strings
 - [Group Anagrams](https://github.com/msystang/DSA-Practice/blob/master/Strings/groupAnagrams.swift)
 - [One Edit Away](https://github.com/msystang/Completed-DSA-Problems/blob/master/Strings/oneEditAway.swift)
+- [Student Attendance Record I](https://github.com/msystang/Completed-DSA-Problems/blob/master/Strings/checkRecord.swift)
 
 
 ## Arrays
