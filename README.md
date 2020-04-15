@@ -2,7 +2,6 @@
 Problems completed in Swift 5
 
 ## Integers
-- [Single Number](https://github.com/msystang/DSA-Practice/blob/master/Integers/singleNumber.swift)
 - [Win Nim](https://github.com/msystang/DSA-Practice/blob/master/Integers/canWinNim.swift)
 - [Happy Number](https://github.com/msystang/DSA-Practice/blob/master/Integers/isNumberHappy.swift)
 
@@ -18,8 +17,12 @@ Problems completed in Swift 5
 - [Move Zeroes](https://github.com/msystang/DSA-Practice/blob/master/Arrays/moveZeroes.swift)
 - [Return Duplicates](https://github.com/msystang/DSA-Practice/blob/master/Arrays/returnDups.swift)
 - [Best Time to Buy and Sell Stock II](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxProfit.swift)
-- [Elements Appearing N or More Times](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/elementsAppearingNOrMoreTimes)
 - [Rotate Matrix](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/rotMatrix.swift)
+
+
+## Dictionaries
+- [Elements Appearing N or More Times](https://github.com/msystang/Completed-DSA-Problems/blob/master/Dictionaries/elementsAppearingNOrMoreTimes.swift)
+- [Single Number](https://github.com/msystang/Completed-DSA-Problems/blob/master/Dictionaries/singleNumber.swift)
 
 
 ## Stacks
