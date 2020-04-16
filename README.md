@@ -4,6 +4,7 @@ Problems completed in Swift 5 are from a number of sources including but not lim
 ## Integers
 - [Win Nim](https://github.com/msystang/DSA-Practice/blob/master/Integers/canWinNim.swift)
 - [Happy Number](https://github.com/msystang/DSA-Practice/blob/master/Integers/isNumberHappy.swift)
+- [Single Number](https://github.com/msystang/Completed-DSA-Problems/blob/master/Integers/singleNumber.swift)
 
 
 ## Strings
@@ -22,7 +23,6 @@ Problems completed in Swift 5 are from a number of sources including but not lim
 
 ## Dictionaries
 - [Elements Appearing N or More Times](https://github.com/msystang/Completed-DSA-Problems/blob/master/Dictionaries/elementsAppearingNOrMoreTimes.swift)
-- [Single Number](https://github.com/msystang/Completed-DSA-Problems/blob/master/Dictionaries/singleNumber.swift)
 
 
 ## Stacks
