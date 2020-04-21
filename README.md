@@ -54,6 +54,10 @@ Problems completed in Swift 5 are from a number of sources including but not lim
 - [Distribute Coins in Binary Tree](https://github.com/msystang/Completed-DSA-Problems/blob/master/Trees/distributeCoins.swift)
 
 
+## Graphs
+- [All Paths From Source to Target](https://github.com/msystang/Completed-DSA-Problems/blob/master/Graphs/allPathsSourceTarget.swift)
+
+
 ## Bitwise Operations
 - [Hamming Distance](https://github.com/msystang/DSA-Practice/blob/master/Bitwise-Operations/hammingDistance.swift)
 
