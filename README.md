@@ -19,6 +19,7 @@ Problems completed in Swift 5 are from a number of sources including but not lim
 - [Return Duplicates](https://github.com/msystang/DSA-Practice/blob/master/Arrays/returnDups.swift)
 - [Best Time to Buy and Sell Stock II](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxProfit.swift)
 - [Rotate Matrix](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/rotMatrix.swift)
+- [Height Checker](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/heightChecker.swift)
 
 
 ## Dictionaries
