@@ -1,5 +1,5 @@
 # Completed DSA Problems
-Problems are completed in Swift 5 and are from a number of sources including but not limited to [LeetCode](https://leetcode.com/).
+Problems are completed in Swift 5 and are from a number of sources including but not limited to [LeetCode](https://leetcode.com/) and [Hackerrank](https://www.hackerrank.com/).
 
 ## Integers
 - [Win Nim](https://github.com/msystang/DSA-Practice/blob/master/Integers/canWinNim.swift)
