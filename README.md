@@ -24,6 +24,7 @@ Problems are completed in Swift 5 and are from a number of sources including but
 
 ## Dictionaries
 - [Elements Appearing N or More Times](https://github.com/msystang/Completed-DSA-Problems/blob/master/Dictionaries/elementsAppearingNOrMoreTimes.swift)
+- [Top K Frequent Words](https://github.com/msystang/Completed-DSA-Problems/blob/master/Dictionaries/topKFrequent.swift)
 
 
 ## Stacks
