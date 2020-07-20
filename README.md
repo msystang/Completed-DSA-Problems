@@ -20,6 +20,7 @@ Problems are completed in Swift 5 and are from a number of sources including but
 - [Best Time to Buy and Sell Stock II](https://github.com/msystang/DSA-Practice/blob/master/Arrays/maxProfit.swift)
 - [Rotate Matrix](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/rotMatrix.swift)
 - [Height Checker](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/heightChecker.swift)
+- [Relative Ranks](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/findRelativeRanks.swift)
 
 
 ## Dictionaries
