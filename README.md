@@ -1,4 +1,4 @@
-# Completed DSA Problems
+# Completed Data Structures & Algorithm Problems
 Problems are completed in Swift 5 and are from a number of sources including but not limited to [LeetCode](https://leetcode.com/) and [Hackerrank](https://www.hackerrank.com/).
 
 ## Integers
