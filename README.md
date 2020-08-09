@@ -21,6 +21,7 @@ Problems are completed in Swift 5 and are from sources such as [LeetCode](https:
 - [Rotate Matrix](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/rotMatrix.swift)
 - [Height Checker](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/heightChecker.swift)
 - [Relative Ranks](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/findRelativeRanks.swift)
+- [Search Matrix](https://github.com/msystang/Completed-DSA-Problems/blob/master/Arrays/searchMatrix.swift)
 
 
 ## Dictionaries
