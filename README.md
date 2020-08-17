@@ -5,6 +5,7 @@ Problems are completed in Swift 5 and are from sources such as [LeetCode](https:
 - [Win Nim](https://github.com/msystang/DSA-Practice/blob/master/Integers/canWinNim.swift)
 - [Happy Number](https://github.com/msystang/DSA-Practice/blob/master/Integers/isNumberHappy.swift)
 - [Single Number](https://github.com/msystang/Completed-DSA-Problems/blob/master/Integers/singleNumber.swift)
+- [Ugly Number](https://github.com/msystang/Completed-DSA-Problems/blob/master/Integers/isUgly.swift)
 
 
 ## Strings
