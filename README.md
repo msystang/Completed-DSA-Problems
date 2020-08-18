@@ -73,3 +73,4 @@ Problems are completed in Swift 5 and are from sources such as [LeetCode](https:
 - [Nth Row of Pascal's Triangle](https://github.com/msystang/Completed-DSA-Problems/blob/master/Misc-Math/pascalsTriangleAtRowN.swift)
 - [Fibonacci Sequence](https://github.com/msystang/Completed-DSA-Problems/blob/master/Misc-Math/fibonacci.swift)
 - [Find Clock Angle](https://github.com/msystang/Completed-DSA-Problems/blob/master/Misc-Math/findClockAngle.swift)
+- [Basic Calculator II](https://github.com/msystang/Completed-DSA-Problems/blob/master/Misc-Math/calculate.swift)
